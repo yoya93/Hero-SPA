@@ -6,9 +6,9 @@ Heroes App es una single-page application (SPA) , construida con React, JavaScri
 Capturas de pantalla del proyecto
 
 
-<img src="1.png" alt="Captura de pantalla"/>
+<img src="imgReadme/1.png" alt="Captura de pantalla"/>
 
-<img src="2.png" alt="Captura de pantalla2"/>
+<img src="imgReadme/2.png" alt="Captura de pantalla2"/>
 
 
 
