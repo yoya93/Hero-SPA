@@ -1,5 +1,5 @@
 
-Heroes App es una single-page application (SPA) , construida con React, JavaScript y CSS. Usando React Router para crear rutas privadas y públicas además de Context API y Reducer para manejar el estado de la app.
+Heroes App es una single-page application (SPA) , construida con React, JavaScript y CSS. Usando React Router para crear rutas privadas y públicas además de Context API y Reducer para manejar el estado de la app.Tambien se realizaron Unit and integration tests mediante Jest.
 
 
 
